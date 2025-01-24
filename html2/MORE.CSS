@@ -1,0 +1,36 @@
+h3{
+    font-size: 50;
+    text-align: center;
+    margin-top: 200px;
+    padding: 20px 20px;
+
+}
+body{
+    background-color: rgb(243, 229, 147);
+    border: 10px 10px 10px black;
+    text-align: center;
+    margin-top: 100px;
+}
+p{
+   box-shadow: 2px 2px 20px  black;
+   background-color: black;
+   margin-top: 300px;
+}
+p2{
+    font-size: 50PX;
+    background-color: white;
+    border: 10px 10px 10px rgb(245, 237, 120);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(245, 30, 30);
+    box-shadow: 2px 2px 20px  black;
+    padding: 10PX 10PX;
+  
+
+}
+p4{
+    background-color: white;
+    font-size: 25px;
+    text-align: left;
+}

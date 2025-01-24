@@ -1,0 +1,22 @@
+h3{
+    font-size:50;
+    text-align: center;
+    margin-top: 200px;
+    padding: 20px 20px;
+}
+body{
+    background-color: black;
+    margin-top: 200px;
+    text-align: center;
+    
+
+}
+p1{
+    box-shadow: 2px 2px 20px  rgb(255, 255, 255);
+  
+   margin-bottom: 500px;
+   
+}
+p2{
+    opacity: 0.4;
+}

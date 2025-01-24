@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(235, 14, 51);
+    
+     margin-top: 100PX;
+     color: white;
+     text-align: center ;
+     
+}
+h1{
+    font-weight: bolder;
+    text-align: center;
+    margin-top:200px;
+    font-size: 100px;
+   text-shadow: 10PX 10PX 10PX black;
+   
+    
+    
+}
+p{
+    font-size: 100px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+border: 10PX 10PX 10PX white ;
+padding: 10PX 10px;
+background-color: white;
+}
+p2{
+    opacity: 0.5;
+}

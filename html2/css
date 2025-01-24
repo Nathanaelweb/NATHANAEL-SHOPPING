@@ -1,0 +1,264 @@
+Body {
+    Font-family: Arial, sans-serif;
+    Margin: 0;
+    Padding: 0;
+    background-color: rgb(245, 206, 212);
+}
+
+Header {
+    Background-color: #333;
+    Color: #fff;
+    Padding: 20px;
+    Text-align: center;
+    margin-bottom: 100PX;
+
+  
+}
+
+Navul {
+   list-style:none;
+    Margin: 0;
+    Padding: 0;
+}
+
+Nav li {
+    Display: inline-block;
+    Margin-right: 20px;
+    width: 100px;
+    height: 20px;
+}
+
+Nav a {
+    Color: #fff;
+    Text-decoration: none;
+    background-color: rgb(77, 0, 0);
+    padding: 10px 5px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+Main {
+    Display: block;
+    Flex-direction: column;
+    Align-items: center;
+    Padding: 20px;
+    width: 80%;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: rgb(46, 44, 45);
+    color: rgb(255, 255, 255);
+    border-radius: 40px;
+    border: 5px solid rgb(233, 130, 130);
+    box-shadow: 10 10 10px rgba(red, green, blue, alpha);
+}
+
+.products {
+    Background-color: #f7f7f7;
+    Padding: 20px;
+    Margin-bottom: 20px;
+}
+
+.product-grid {
+    Display: grid;
+    Grid-template-columns: repeat(3, 1fr);
+    Grid-gap: 20px;
+    grid-template-rows: 100px 200px;
+}
+
+.product {
+    Background-color: rgb(46, 0, 0);
+    Padding: 20px;
+    Border: 30px solid rgb(255, 0, 0);
+}
+
+.add-to-cart {
+    Background-color: #333;
+    Color: #fff;
+    Border: none;
+    Padding: 10px 20px;
+    Font-size: 50px;
+    Cursor: pointer;
+   
+}
+
+.cart {
+    Background-color: #f7f7f7;
+    Padding: 20px;
+    
+}
+
+.cart-items {
+    Padding: 20px;
+}
+
+
+
+h3 {
+    
+    Color: #fff;
+    Border: none;
+   
+    Font-size: 26px;
+    margin-top: 300px;
+    
+}
+p{
+    font-size: 30px;
+   color: rgb(255, 0, 0);
+  background-color: rgb(78, 78, 78);
+  border-radius: 5px;
+ 
+  Display: inline-block;
+  font-weight: bold;
+  
+}
+
+div1{
+    font-size: 27px;
+    padding: 30px 30px;
+    background-color: red;
+    cursor: pointer;
+   width: 30px;
+   height: 30px;
+    
+}
+p2{
+color: darkred;
+
+border-radius: 10px;
+padding: 10px 20px;
+background-color: white;
+text-shadow: 5px 5px 5px #333;
+font-size: 54px;
+}
+p3{
+    color: rgb(208, 223, 1);
+    text-align: center;
+font-style: italic;
+font-size: 12px;
+
+}
+div3{
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 10px 20px;
+
+    
+}
+p5{
+   
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+div3{
+    color: darkred;
+
+border-radius: 5px;
+padding: 30px 20px;
+background-color: rgb(201, 201, 201)
+
+}
+p8{
+    color: rgb(208, 223, 1);
+    text-align: center;
+font-style: italic;
+font-size: 10px;
+}
+p11{
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 5px;
+padding: 10px 5px;
+background-color: rgb(189, 184, 184);
+font-weight: bold;
+}
+p12{
+    cursor: pointer;
+    font-size: 18px;
+}
+p13{
+    cursor: pointer;
+    font-size: 12px;
+    border-radius: 5px;
+
+background-color: rgb(189, 184, 184);
+font-weight: bold;
+}
+main2{
+  
+        Display: block;
+        Flex-direction: column;
+        Align-items: center;
+        Padding: 20px;
+        width: 80%;
+        margin: 40px auto;
+        padding: 20px;
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+        border-radius: 40px;
+        border: 5px solid rgb(233, 130, 130);
+        box-shadow: 10 10 10px rgba(red, green, blue, alpha);
+}
+P16{
+font-size: 24px;
+font-weight: bold;
+border: red;
+border-radius: 5px;
+padding: 10px 10px;
+text-decoration: none;
+background-color: rgb(104, 0, 0);
+color: rgb(255, 255, 255);
+display: inline-block;
+}
+div5{
+    background-color: rgb(44, 44, 44);
+    border-radius: 10px;
+}
+main3{
+  
+    Display: block;
+    Flex-direction: column;
+    Align-items: center;
+    Padding: 20px;
+    width: 80%;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 40px;
+    border: 5px solid rgb(233, 130, 130);
+    box-shadow: 10 10 10px rgba(red, green, blue, alpha);
+}
+P20{
+padding: 10px 10px;
+
+}
+li1{
+    padding: 30px 124px; 
+    
+    color: white;
+    background-color: rgb(255, 255, 255);
+    
+ position: relative;
+ top: 20px;
+ border-radius: 10px;
+ box-shadow:0px 0px 10px #333;
+ 
+}
+nav2{
+    font-size: 24px;
+}
+p21{
+   padding: 25PX 25PX
+  
+    
+}
+
+h4{
+    font-size: 100PX;
+    color: red;
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
